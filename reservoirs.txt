@@ -1,0 +1,18 @@
+Reservoir 1:
+Name: Sea1
+Width: 1000 meters
+Length: 2000 meters
+Max Depth: 50 meters
+
+Reservoir 2:
+Name: Lake1
+Width: 500 meters
+Length: 800 meters
+Max Depth: 30 meters
+
+Reservoir 3:
+Name: Sea2
+Width: 1200 meters
+Length: 2500 meters
+Max Depth: 60 meters
+
